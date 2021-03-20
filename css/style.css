@@ -8,14 +8,16 @@ color: #000000;
 background-color: #ffffff;
 }
 .site-header {
-min-height: 400px;
-padding-top: 50px;
-padding-bottom: 150px;
 color: #ffffff;
 background-color: #222222;
+}
+.site-header .container {
+min-height: 400px;
+padding-top: 50px;
+padding-bottom: 180px;
 background-image: url("../img/moon-rocket.png");
 background-repeat: no-repeat;
-background-position: 700px 145px;
+background-position: 520px 130px;
 }
 .site-menu {
 display: flex;
